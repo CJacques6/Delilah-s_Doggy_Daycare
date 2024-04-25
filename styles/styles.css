@@ -42,17 +42,17 @@ body {
         - change the cursor to pointer.
 */
 h1{
-    size: 48px;
+    height: 48px;
     text-align: center;
 }
 
 h2{
-    size: 36px;
+    height: 36px;
     margin-bottom: 12px;
 }
 
 .large-text{
-    size: 24px;
+    height: 24px;
 }
 
 .fake-button{
@@ -223,7 +223,7 @@ main div img{
 
 .contact label{
     width: 150px;
-    text-decoration: right;
+    text-align: right;
     margin-right: 12px;
 }
 
